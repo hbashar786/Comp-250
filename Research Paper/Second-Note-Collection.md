@@ -86,7 +86,15 @@ Hamza Bashar · Nov 23, 2026
 
 ## Overview
 
-
+My research argues that AI surveillance and biometric identification can improve safety but need strict laws and multiple verification checks to protect innocent people. Three questions now organize that research. How reliable is a facial recognition match? What checks stand between a match and an arrest? And how do the rules for police use differ across states, departments, and courts?
+ 
+All six sources come from my research on surveillance and facial recognition, and I chose the quotations that best capture each source’s central claim. I gave the NIST study by Grother, Ngan, and Hanaoka the most attention, five notes, because it supplies the technical evidence behind every other source: how often algorithms fail, for whom, and what testing should measure. Compton and the European Parliament show the benefits and regulated use of the technology, Hill and Ryan et al. show its harms, and Feldstein defines the oversight that legitimate surveillance requires.
+ 
+My most frequent subject terms are “misidentification,” “demographic differential,” “human verification,” and “testing.” Together they trace my argument: the technology makes errors, those errors fall unevenly on different groups, and people must test systems and check every match before acting on it. Terms used once, such as “TSA PreCheck” and “predictive policing,” mark single examples.
+ 
+My attention moved from benefits to harms to safeguards. I began with the speed of airport screening (Note 1) and the EU’s narrow permission for police use (Note 2), then used NIST to explain why an airport error costs only a second try while a police error can cost someone’s freedom (Note 3). Hill’s account of Robert Williams (Note 4) and the Xinjiang report (Note 5) show the harms, and NIST’s finding that most algorithms show demographic differentials (Note 6) explains why those harms fall unevenly. Feldstein’s call for independent oversight (Note 7) leads into the safeguards NIST describes: human review of every candidate (Note 8) and error rates reported for each group (Note 9). Note 10 closes the loop, since NIST’s warning that a false positive “could lead to a false accusation” describes exactly what happened to Williams in Note 4.
+ 
+These sources explain the problem well, but they say little about how the rules differ across the United States. Next, I will compare state laws, such as Maryland’s limits and the warrant requirements in Montana and Utah, and examine how police departments and courts treat a facial recognition match differently, including whether prosecutors must disclose it. I also plan to study the Luigi Mangione case, where a person rather than software made the identification, as a contrast to the Williams case.
 
 **Use of generative AI:** I used Claude, to help with research and with my bibliography. For research, it helped me find passages in my existing sources that fit my new research questions and checked my quotations and page numbers against the original documents. For the bibliography, it converted my citations from APA to Chicago author-date style.
 
